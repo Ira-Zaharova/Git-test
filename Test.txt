@@ -7,6 +7,8 @@
 Четыре два
 Сорок два!
 
+No more!
+
 One,two, three
 Four, five, six!
 
